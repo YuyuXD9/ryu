@@ -1,0 +1,18 @@
+{
+  "RYU": {
+    "key": "RYUGANTENG",
+    "expired": "2026-08-31"
+  },
+  "RyuPlayer": {
+    "key": "RYU-5678-EFGH",
+    "expired": "2026-10-15"
+  },
+  "VipMember": {
+    "key": "RYU-VIP-PERMANENT",
+    "expired": "2099-12-31"
+  },
+  "GuestUser": {
+    "key": "RYU-0000-TRIAL",
+    "expired": "2026-03-01"
+  }
+}
